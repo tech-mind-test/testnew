@@ -1,3 +1,4 @@
+КЛЮЧ, НИК, UID
 D8C0-721A-GOBC-9ZQJ, ОВНЕР
 9WEI-BFT5-HXCE-V062, ОВНЕРАСЫН
 Vla-Dick-Designer, Designer
