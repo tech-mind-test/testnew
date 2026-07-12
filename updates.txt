@@ -1,0 +1,3 @@
+[+] Wheel Mode For AutoSwap and HeadSwap
+[-] KEYAUTH FOR JAR 
+[/] Improve optimization for shaders
