@@ -5,5 +5,5 @@ MEDIA_KAL_KEY, media_kal
 LINUX-KEY-LIFETIME
 M05G-YFBU-SOJS-9F76, sh1ms
 vladih
-PASHAPAVEL-LIfETIME, okyn
+PASHA67POKOY, okyn
 КЛЮЧ, НИК, UID
